@@ -1,0 +1,76 @@
+
+
+
+img{
+  display:block;
+	margin: 25px 0px 30px 0px;
+	width: 330px;
+	height: 330px;
+	border-radius: 15px;
+	box-shadow: -5px 5px 7px rgba(0, 0, 0, 0.315);
+}
+
+.container{
+
+  width: 80%;
+	margin: 0 auto;
+  background-color: blue;
+	border-radius: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+  box-shadow: -5px 5px 7px rgba(0, 0, 0, 0.315);
+
+}
+.info{
+  margin-left: 40px;
+	margin-right: 40px;
+	text-align: center;
+}
+.TUDO{
+  gap: 3rem;
+  background-color: aqua;
+	display: flex;
+	border-radius: 15px;
+	align-content: center;
+	justify-content: center;
+	flex-wrap: wrap;
+
+}
+.continf{
+  display: block;
+	background-color: rgb(36, 156, 156);
+	margin: 15px 0px 15px 0px;
+	padding: 5px;
+	border-radius: 20px;
+	text-align: center;
+}
+.contato{
+  display: block;
+	background-color: aqua;
+	margin: 15px 0px 15px 0px;
+	padding: 5px;
+	border-radius: 20px;
+	text-align: center;
+}
+.nomelucas {
+	padding-top: 20px;
+	padding-bottom: 0px;
+  text-align: center;
+	text-shadow: -2px 5px 7px rgba(0, 0, 0, 0.507);
+}
+
+div a{
+  display:block;
+	background-color: rgb(36, 156, 156);
+	margin: 15px 0px 15px 0px;
+	padding: 5px;
+	border-radius: 20px;
+	text-align: center;
+  text-decoration: none;
+  color: black;
+  transition: .5s;
+  font-size: 20px;
+}
+div a:hover{
+  background-color: rgb(29, 95, 95)
+}
